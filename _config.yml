@@ -1,6 +1,6 @@
 title: احادیث معصومین
 #description: Hadiths
-theme: AliKhadivi/cayman-rtl@v1.0.0
+theme: cayman
 show_downloads: false
 github:
   is_project_page: false
