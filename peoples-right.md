@@ -165,6 +165,5 @@
 <p style="text-align: center;">
 تهیه شده در واحد رسانه هیئت الشهدا
 <br />
-<img src="hlogo.png" style="margin-top: 10px;max-width: 100px;" />
+<img src="hlogo.png" style="margin-top: 40px;max-width: 100px;" />
 </p>
-<br />
